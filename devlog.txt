@@ -27,8 +27,8 @@ LESSONS LEARNED
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ============================================================
-
-
+11/16/2017
+Yuyang Zhang: Created site map for website. Began researching bootstrap designs. Began creating logo/image for homepage. Planned more on design of pages.
 11/15/2017
 Carol Pan:
 Yuyang Zhang: Drawn out home page for bootstrap and html purposes. Expanded on project proposal.
