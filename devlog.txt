@@ -29,5 +29,13 @@ LESSONS LEARNED
 ============================================================
 
 
-
+11/15/2017
+Carol Pan:
+Yuyang Zhang: Drawn out home page for bootstrap and html purposes. Expanded on project proposal.
+Eugene Thomas: Assigned roles as Project Manager.
+Samantha Ngo:
+11/14/2017
+Members of the team pinned down of project ideas. Expanded on decision for leisure/weather project. 
+11/13/2017
+All members discussed possible project ideas. The majority of the day was used to research on APIs and see what was most reasonable. Assigned general positions.
 ============================================================
